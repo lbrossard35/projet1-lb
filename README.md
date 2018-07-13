@@ -6,3 +6,5 @@ deuxième modification pour voir import
 
 
 encore une modif en ligne pour tester le git pull
+
+essai conflit
